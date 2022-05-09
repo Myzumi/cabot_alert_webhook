@@ -1,0 +1,5 @@
+*.pyc
+dist/
+cabot_alert_webhook.egg-info/
+build/*
+*.sw?
